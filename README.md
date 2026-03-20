@@ -1,4 +1,4 @@
-# I'm Jay
+# I'm John (JP, Jay, whatever...)
 
 PM with a dev background who couldn't stop building.
 
