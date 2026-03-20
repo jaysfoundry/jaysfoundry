@@ -1,6 +1,6 @@
 # I'm Jay (John Costallos)
 
-PM with a dev background who couldn't stop building.
+A product manager with a dev background who couldn't stop building.
 
 **Jay's Foundry** is my side project space where I experiment with AI tooling, break stuff, and figure out what's actually useful. Mostly working with agentic workflows right now.
 
